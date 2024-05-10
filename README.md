@@ -1,4 +1,9 @@
-### Hi there 👋
+<div align="center">
+  <h3>선하의 깃허브:)</h3>
+</div>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=김선하+화이팅!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
 
 <!--
 **kimseonha/kimseonha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
